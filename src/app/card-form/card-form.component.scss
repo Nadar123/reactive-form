@@ -1,0 +1,22 @@
+.p-top {
+  padding-top: 6rem;
+}
+.form {
+  width: 85%;
+  text-align: center;
+  margin-top: 3rem;
+  
+  .btn {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    .button.is-primary {
+      margin: 0 1rem 0 0;
+    }
+  }
+}
+
+.debug {
+  text-align: center;
+}
